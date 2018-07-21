@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+
+.navbar-inverse .navbar-nav li a{
+    color: #fff;
+}
+.img-txt{
+    color: #fff;
+    position: absolute; 
+    bottom: 0px;
+    left: 30px;
+
+ }
+ .logo-name{
+    margin-right: 250px;
+ }
+ .bg-1{
+    background-color: #ccc;
+ }
+ .tit-head{
+    padding-top: 50px;
+ }
+ .side-img{
+    background-color: #000;
+    border: 0px;
+ }
+footer{
+    padding:10px; 
+    background-color: darkgrey; 
+    color: #fff;
+}
